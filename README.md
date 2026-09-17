@@ -4,7 +4,6 @@
 - Connect GMSL2 cable's female side to the camera, wait for click
 - With capture card powered off, connect other end of GMSL2 cable to capture card's male end. Wait for click
 - Connect power adapter cable to white PWR J3 connecter 
-- Plug the power for the capture card afer cables are connected
 - Connect HDMI/Keyboard/Mouse to USB
 - Power up and wait for boot
 
